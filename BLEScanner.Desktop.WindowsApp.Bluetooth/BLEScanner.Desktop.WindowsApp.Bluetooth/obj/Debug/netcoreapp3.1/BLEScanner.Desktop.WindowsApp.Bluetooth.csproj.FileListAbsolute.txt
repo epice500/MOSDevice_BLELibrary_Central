@@ -1,0 +1,9 @@
+C:\Users\mitch\source\repos\BLEScanner.Desktop.WindowsApp.Bluetooth\BLEScanner.Desktop.WindowsApp.Bluetooth\bin\Debug\netcoreapp3.1\BLEScanner.Desktop.WindowsApp.Bluetooth.deps.json
+C:\Users\mitch\source\repos\BLEScanner.Desktop.WindowsApp.Bluetooth\BLEScanner.Desktop.WindowsApp.Bluetooth\bin\Debug\netcoreapp3.1\BLEScanner.Desktop.WindowsApp.Bluetooth.dll
+C:\Users\mitch\source\repos\BLEScanner.Desktop.WindowsApp.Bluetooth\BLEScanner.Desktop.WindowsApp.Bluetooth\bin\Debug\netcoreapp3.1\BLEScanner.Desktop.WindowsApp.Bluetooth.pdb
+C:\Users\mitch\source\repos\BLEScanner.Desktop.WindowsApp.Bluetooth\BLEScanner.Desktop.WindowsApp.Bluetooth\obj\Debug\netcoreapp3.1\BLEScanner.Desktop.WindowsApp.Bluetooth.csprojAssemblyReference.cache
+C:\Users\mitch\source\repos\BLEScanner.Desktop.WindowsApp.Bluetooth\BLEScanner.Desktop.WindowsApp.Bluetooth\obj\Debug\netcoreapp3.1\BLEScanner.Desktop.WindowsApp.Bluetooth.AssemblyInfoInputs.cache
+C:\Users\mitch\source\repos\BLEScanner.Desktop.WindowsApp.Bluetooth\BLEScanner.Desktop.WindowsApp.Bluetooth\obj\Debug\netcoreapp3.1\BLEScanner.Desktop.WindowsApp.Bluetooth.AssemblyInfo.cs
+C:\Users\mitch\source\repos\BLEScanner.Desktop.WindowsApp.Bluetooth\BLEScanner.Desktop.WindowsApp.Bluetooth\obj\Debug\netcoreapp3.1\BLEScanner.Desktop.WindowsApp.Bluetooth.dll
+C:\Users\mitch\source\repos\BLEScanner.Desktop.WindowsApp.Bluetooth\BLEScanner.Desktop.WindowsApp.Bluetooth\obj\Debug\netcoreapp3.1\BLEScanner.Desktop.WindowsApp.Bluetooth.pdb
+C:\Users\mitch\source\repos\BLEScanner.Desktop.WindowsApp.Bluetooth\BLEScanner.Desktop.WindowsApp.Bluetooth\obj\Debug\netcoreapp3.1\BLEScanner.Desktop.WindowsApp.Bluetooth.csproj.CoreCompileInputs.cache
